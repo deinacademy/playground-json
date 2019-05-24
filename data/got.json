@@ -1,0 +1,17 @@
+{
+    "Jon Snow": {
+        "actor": "Kit Harington",
+        "genero": "Hombre",
+        "casa": "Starks"
+    },
+    "Daenerys": {
+        "actor": "Emilia Clarke",
+        "genero": "Mujer",
+        "casa": "Targaryens"
+    },
+    "Tyrion": {
+        "actor": "Peter Dinklage",
+        "genero": "Hombre",
+        "casa": "Lanisters"
+    }
+}
