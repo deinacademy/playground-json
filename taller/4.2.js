@@ -1,4 +1,4 @@
-const got = require('../data/got.js');
+const got = require('../data/got.json');
 
 console.log('Personajes:');
 console.table(got);
