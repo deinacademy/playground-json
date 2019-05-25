@@ -6,6 +6,6 @@ const maltrecho = {
     calcular: edad(),
     fecha: new Date()
 }
-//TODO: Convertir a Texto
+const texto = JSON.stringify(maltrecho);
 
 console.log(texto);

@@ -3,7 +3,7 @@ const perro = {
     raza: "Akita Japones",
     nombre: "Hachiko"
 };
-//TODO: Convertir a Texto
+const texto = JSON.stringify(perro);
 
 console.log("Objeto:");
 console.log(perro);

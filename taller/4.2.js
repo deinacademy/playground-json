@@ -1,11 +1,11 @@
-const got = require('../data/got.js');
+const got = require('../data/got.json');
 
 console.log('Personajes:');
 console.table(got);
 
 //Taller 4.2: Read
 const personaje = 'Tyrion';
-//TODO:Buscar a Tyrion
+const resultado = got[personaje];
 
 console.log('Read:');
 console.log(`Actor:  ${resultado.actor}`);
