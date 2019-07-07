@@ -1,10 +1,10 @@
 const fetch = require("node-fetch");
 
-const server = 'https://pokeapi.co/api/v2/';
+const server = 'https://api.got.show';
 
 const rest = async (endpoint) => {
     try {
-        let response = await fetch(`${server}${endpoint}`);
+        let response = await fetch(`${server}/${endpoint}`);
         let data = await response.json();
         return Promise.resolve(data);
     } catch (error) {

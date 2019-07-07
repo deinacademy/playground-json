@@ -1,14 +1,14 @@
-const api = require('../api/pokemon.js');
+const api = require('../api/got.js');
 
 // Herramientas
 const show = (result) => {
     console.log(result);
-    //TODO: 1. Acceder a las propiedades:
-    //- id
-    //- name
-    //- region.name
+    //TODO:
+    // Acceder a las propiedades:
+    // - name
+    // - age
 }
 
-// Taller 5.1: Desde API https://pokeapi.co/
-const endpoint = 'location/1';
+// Taller 5.1: API https://api.got.show
+const endpoint = 'api/book/events';
 api.request(endpoint, show)

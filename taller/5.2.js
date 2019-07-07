@@ -3,10 +3,14 @@ const api = require('../api/pokemon.js');
 // Herramientas
 const show = (result) => {
     console.log(result);
-    //TODO: Entrar a la pagina de Pokemon API
-    //      Cambiar el endpoint y acceder a las propiedades
+    //TODO:
+    // Entrar a la pagina de Game of Thrones API
+    // Cambiar el endpoint para obtener todos los Castillos
+    // Acceder a las propiedades:
+    // - name
+    // - location
 }
 
-// Taller 5.2: Desde API https://pokeapi.co/
-const endpoint = 'location/1';
+// Taller 5.2: API https://api.got.show
+const endpoint = 'api/book/characters';
 api.request(endpoint, show)
