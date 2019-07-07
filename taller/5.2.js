@@ -12,3 +12,7 @@ const show = (result) => {
     // - location
     // - founder
 }
+
+// Taller 5.2: API https://api.got.show
+const endpoint = '/api/show/castles';
+api.request(endpoint, show)
