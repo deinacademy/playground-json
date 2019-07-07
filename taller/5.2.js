@@ -1,4 +1,4 @@
-const api = require('../api/pokemon.js');
+const api = require('../api/got.js');
 
 // Herramientas
 const show = (result) => {
