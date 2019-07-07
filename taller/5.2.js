@@ -1,14 +1,18 @@
-const api = require('../api/pokemon.js');
+const api = require('../api/got.js');
 
 // Herramientas
 const show = (result) => {
-    const abilities = result.abilities.map((item) => item.ability.name);
-    console.log(abilities);
-    abilities.forEach((element, index) => {
-        console.log(`Habilidad ${index}: ${element}`);
+    const castles = result.filter((castle) => castle.founder.length > 0);
+    castles.forEach((castle, index) => {
+        console.log(`
+            Index:    ${index}
+            Name:     ${castle.name}
+            Location: ${castle.location}
+            Founder:  ${castle.founder}
+        `);
     });
 }
 
-// Taller 5.2: Desde API https://pokeapi.co/
-const endpoint = 'pokemon/ditto/';
+// Taller 5.2: API https://api.got.show
+const endpoint = '/api/show/castles';
 api.request(endpoint, show)
