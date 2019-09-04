@@ -101,14 +101,17 @@ node taller/1
 
 Si ves un mensaje que dice `¡Hola Mundo!` **¡Lo lograste! Ya tienes todo listo para asistir al taller.**
 
-> Si no te funciona no te rindas. Verifica que hayas realizado correctamente cada uno de los pasos. Si sigue sin funcionar, escribe en el chat del meetup que entre todos tratamos de ayudarte.
+> Si no te funciona no te rindas. Verifica que hayas realizado correctamente cada uno de los pasos. 
+> Si sigue sin funcionar, escribe en el chat del meetup que entre todos tratamos de ayudarte.
+
+Como alternativa podras hacer el taller de forma online [https://repl.it/@equiman/playground-json](repl.it/@equiman/playground-json) pero para que te funcione dependeras de una conexión a internet.
 
 ## Taller
 
 El lugar del próximo meetup esta por definirse, sígueme en twitter [@equiman](https://twitter.com/equiman) para estar enterad@.
 
 Es muy importante estar hidratados para que el cerebro pueda absorber los nuevos conocimientos.
-Por favor **Lleva tu propio termo** :wink:.
+Por favor **Lleva tu propio termo** :wink: asi ayudamos al planeta a contaminar un poco menos.
 
 ![Drink Water](https://media.giphy.com/media/lzoNS7ciab7uWWy2cf/giphy.gif)
 
