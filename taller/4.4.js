@@ -7,5 +7,5 @@ console.table(got);
 const personaje = 'Daenerys';
 delete got[personaje];
 
-console.log('Delete:')
+console.log('Delete:');
 console.table(got);
