@@ -12,5 +12,5 @@ const descripcion = {
 const personaje = 'Lyanna';
 //TODO: Adicionar a Lyanna a la lista de personajes con su respectiva descripcion
 
-console.log('Create:')
+console.log('Create:');
 console.table(got);
