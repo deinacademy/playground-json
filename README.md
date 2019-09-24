@@ -107,7 +107,7 @@ Si ves un mensaje que dice `¡Hola Mundo!` **¡Lo lograste! Ya tienes todo listo
 
 ## Alternativa
 
-Si definitivamente no te funiona, podras hacer el taller de forma online [https://codesandbox.io/s/playground-json-qp9h3?expanddevtools=1&previewwindow=tests](codesandbox.io/s/playground-json-qp9h3) pero para que te funcione dependeras de una conexión a internet.
+Si definitivamente no te funiona, podras hacer el taller de forma online [codesandbox.io](https://codesandbox.io/s/playground-json-qp9h3?expanddevtools=1&previewwindow=tests) pero para que te funcione dependeras de una conexión a internet.
 
 ## Taller
 
