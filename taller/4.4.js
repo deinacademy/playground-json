@@ -7,5 +7,5 @@ console.table(got);
 const personaje = 'Daenerys';
 //TODO: Eliminar a Daenerys de la lista de personajes
 
-console.log('Delete:')
+console.log('Delete:');
 console.table(got);
