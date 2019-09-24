@@ -7,5 +7,5 @@ console.table(got);
 const personaje = 'Jon Snow';
 //TODO:Actualizar la casa de Jon Snow a Targaryens
 
-console.log('Update:')
+console.log('Update:');
 console.table(got);
