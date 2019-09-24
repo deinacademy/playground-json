@@ -15,4 +15,4 @@ const show = (result) => {
 
 // Taller 5.2: API https://api.got.show
 const endpoint = '/api/show/castles';
-api.request(endpoint, show)
+api.request(endpoint, show);
