@@ -14,4 +14,4 @@ const show = (result) => {
 
 // Taller 5.1: API https://api.got.show
 const endpoint = 'api/book/characters/Jon%20Snow';
-api.request(endpoint, show)
+api.request(endpoint, show);
