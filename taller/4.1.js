@@ -12,5 +12,5 @@ const descripcion = {
 const personaje = 'Lyanna';
 got[personaje] = descripcion;
 
-console.log('Create:')
+console.log('Create:');
 console.table(got);
