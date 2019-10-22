@@ -9,7 +9,7 @@
   "author": "Camilo Martinez (Equiman)",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^1.19.0"
+    "nodemon": "^1.19.4"
   },
   "dependencies": {
     "node-fetch": "^2.6.0"
