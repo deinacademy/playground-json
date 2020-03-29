@@ -4,7 +4,7 @@ const edad = () => 18;
 const maltrecho = {
     esValido: false,
     calcular: edad(),
-    fecha: new Date()
+    fecha: (new Date()).toJSON()
 }
 const texto = JSON.stringify(maltrecho);
 
