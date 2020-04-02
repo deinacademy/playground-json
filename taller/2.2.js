@@ -1,6 +1,6 @@
 //Taller 2.2: Conversiones
 const texto = '{"raza":"Británico","nombre":"Felix"}';
-//TODO: Convertir a objeto JSON
+//TODO: Convertir a Objeto
 
 console.log("Texto:");
 console.log(texto);
