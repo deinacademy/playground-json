@@ -7,7 +7,7 @@ console.table(got);
 const personaje = 'Tyrion';
 const resultado = got[personaje];
 
-console.log('Read:');
-console.log(`Actor:  ${resultado.actor}`);
-console.log(`Genero: ${resultado.genero}`);
-console.log(`Casa:   ${resultado.casa}`);
+console.log(`Read:
+Actor:  ${resultado.actor}
+Genero: ${resultado.genero}
+Casa:   ${resultado.casa}`);

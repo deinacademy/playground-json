@@ -1,13 +1,14 @@
 const got = require('../data/got.json');
+const saveFile = require('../api/saveFile');
 
-const conversion = {};
-got.forEach(actor => {
-  const {
-    personaje,
-    ...propiedades
-  } = actor;
+for (const clave in got) {
+  if (got.hasOwnProperty(clave)) {
+    const element = got[clave];
+    if (element.genero === 'Male') {
+      element.genero = 'Hombre';
+    }
+  }
+}
 
-  conversion[personaje] = propiedades;
-});
-
-console.log(conversion);
+console.table(got);
+saveFile.toJSON(got);

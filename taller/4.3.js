@@ -1,4 +1,5 @@
 const got = require('../data/got.json');
+const saveFile = require('../api/saveFile');
 
 console.log('Personajes:');
 console.table(got);
@@ -9,3 +10,5 @@ got[personaje].casa = 'Targaryens';
 
 console.log('Update:');
 console.table(got);
+
+saveFile.toJSON(got);
