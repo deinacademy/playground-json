@@ -4,7 +4,7 @@
 
 Si no puedes esperar hasta el próximo meetup o no puedes asistir. Ahora esta disponible una versión **GRATIS** en YouTube:
 
-[![Curso JSON de novato a experto](https://img.youtube.com/vi/JJFXgEpcGbg/0.jpg)](https://www.youtube.com/playlist?list=PLrDTf5qnZdEAiHO19QB9hq5QXAef1h8oY)
+[![Curso JSON de novato a experto](assets/images/youtube.png)](https://www.youtube.com/playlist?list=PLrDTf5qnZdEAiHO19QB9hq5QXAef1h8oY)
 
 ## Requisitos
 
