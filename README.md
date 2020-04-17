@@ -1,17 +1,11 @@
 # TALLER DE JSON
 
-## Curso online
-
-Si no puedes esperar hasta el próximo meetup o no puedes asistir. Ahora esta disponible una versión **GRATIS** en YouTube:
-
-[![Curso JSON de novato a experto](assets/images/youtube.png)](https://www.youtube.com/playlist?list=PLrDTf5qnZdEAiHO19QB9hq5QXAef1h8oY)
-
 ## Requisitos
 
 * Actitud positiva
 * Ganas de aprender
 * Abrir la mente a nuevas palabras y conceptos
-* Disposición para ayudar a tus compañer@s
+* Disposición para ayudar a tus compañeros y compañeras
 
 ![Good Vibes](https://media.giphy.com/media/62cT89Nnbb7Gnplz0e/giphy.gif)
 
@@ -113,7 +107,7 @@ Si ves un mensaje que dice `¡Hola Mundo!` **¡Lo lograste! Ya tienes todo listo
 
 ## Alternativa
 
-Si definitivamente no te funiona, podras hacer el taller de forma online [codesandbox.io](https://codesandbox.io/s/playground-json-qp9h3?expanddevtools=1&previewwindow=tests) pero para que te funcione dependeras de una conexión a internet.
+Si definitivamente no te funciona, podrás hacer el taller de forma online [codesandbox.io](https://codesandbox.io/s/playground-json-qp9h3?expanddevtools=1&previewwindow=tests) pero para que te funcione vas a depender de una conexión a internet.
 
 ## Taller
 
@@ -125,3 +119,17 @@ Por favor **Lleva tu propio termo** :wink: asi ayudamos al planeta a contaminar 
 ![Drink Water](https://media.giphy.com/media/lzoNS7ciab7uWWy2cf/giphy.gif)
 
  **¡Nos vemos pronto!**
+
+## Version online
+
+Si no puedes esperar hasta el próximo meetup o no puedes asistir. Ahora esta disponible una versión **GRATIS** en YouTube:
+
+[![Curso JSON de novato a experto](assets/images/youtube.png)](https://www.youtube.com/playlist?list=PLrDTf5qnZdEAiHO19QB9hq5QXAef1h8oY)
+
+## Patrocinadores
+
+Si deseas apoyar mi trabajo en la creación de cursos gratuitos o workshops puedes invitarme a un café.
+
+[![Donate](https://img.shields.io/badge/paypal-donate-blue)](https://paypal.me/equiman/3)
+[![Donate](https://img.shields.io/badge/patreon-donate-red)](https://patreon.com/equiman)
+[![Donate](https://img.shields.io/badge/buy%20me%20a%20coffee-donate-orange)](https://buymeacoff.ee/equiman)
