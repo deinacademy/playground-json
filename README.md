@@ -125,3 +125,11 @@ Por favor **Lleva tu propio termo** :wink: asi ayudamos al planeta a contaminar 
 ![Drink Water](https://media.giphy.com/media/lzoNS7ciab7uWWy2cf/giphy.gif)
 
  **¡Nos vemos pronto!**
+
+## Patrocinadores
+
+Si quieres patrocinar cursos o workshops sobre desarrollo, puedes invitarme a un café.
+
+[![Donate](https://img.shields.io/badge/paypal-donate-blue)](https://paypal.me/equiman/3)
+[![Donate](https://img.shields.io/badge/patreon-donate-red)](https://patreon.com/equiman)
+[![Donate](https://img.shields.io/badge/buy%20me%20a%20coffee-donate-orange)](https://buymeacoff.ee/equiman)
