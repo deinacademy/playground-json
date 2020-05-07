@@ -2,8 +2,5 @@
     "infiniteLoopProtection": false,
     "hardReloadOnChange": false,
     "template": "node",
-    "view": {
-        "client": "console",
-        "container": "terminal"
-    }
+    "view": "console"
 }
