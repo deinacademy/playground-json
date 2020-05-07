@@ -107,7 +107,7 @@ Si ves un mensaje que dice `¡Hola Mundo!` **¡Lo lograste! Ya tienes todo listo
 
 ## Alternativa
 
-Si definitivamente no te funciona, podrás hacer el taller de forma online [Code Sandbox](https://githubbox.com/equiman/playground-json) pero para que te funcione vas a depender de una conexión a internet.
+Si definitivamente no te funciona, podrás hacer el taller de forma online [CodeSandbox](https://githubbox.com/equiman/playground-json) pero para que te funcione vas a depender de una conexión a internet.
 
 Para poder ejecutar los comandos, debes hacer click en el icono `+` de la pestaña terminal.
 
