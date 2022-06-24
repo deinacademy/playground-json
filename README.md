@@ -132,6 +132,5 @@ Si no puedes esperar hasta el próximo meetup o no puedes asistir. Ahora esta di
 
 Si deseas apoyar mi trabajo en la creación de cursos gratuitos o workshops puedes invitarme a un café.
 
-[![Donate](https://img.shields.io/badge/paypal-donate-blue)](https://paypal.me/equiman/3)
-[![Donate](https://img.shields.io/badge/patreon-donate-red)](https://patreon.com/equiman)
-[![Donate](https://img.shields.io/badge/buy%20me%20a%20coffee-donate-orange)](https://www.buymeacoffee.com/equiman)
+[![paypal](https://img.shields.io/badge/-PayPal-gray?style=flat&labelColor=00457C&logo=paypal&logoColor=white&link=https://paypal.me/equiman/3)](https://paypal.me/equiman/3)
+[![ko-fi](https://img.shields.io/badge/-Ko–Fi-gray?style=flat&labelColor=fd444a&logo=ko-fi&logoColor=white&link=https://ko-fi.com/equiman)](https://ko-fi.com/equiman)
