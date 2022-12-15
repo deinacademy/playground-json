@@ -130,7 +130,7 @@ Si no puedes esperar hasta el próximo meetup o no puedes asistir. Ahora esta di
 
 ## Patrocinadores
 
-Si deseas apoyar mi trabajo en la creación de cursos gratuitos o workshops puedes invitarme a un café.
+Si deseas apoyar mi trabajo en la creación de cursos gratuitos o workshops puedes invitarme a una cerveza.
 
+[![GitHub Sponsors](https://img.shields.io/badge/-GitHub%20Sponsors-gray?style=flat&labelColor=171515&logo=github&logoColor=white&link=https://github.com/sponsors/deinacademy)](https://github.com/sponsors/deinacademy)
 [![paypal](https://img.shields.io/badge/-PayPal-gray?style=flat&labelColor=00457C&logo=paypal&logoColor=white&link=https://paypal.me/equiman/3)](https://paypal.me/equiman/3)
-[![ko-fi](https://img.shields.io/badge/-Ko–Fi-gray?style=flat&labelColor=fd444a&logo=ko-fi&logoColor=white&link=https://ko-fi.com/equiman)](https://ko-fi.com/equiman)
